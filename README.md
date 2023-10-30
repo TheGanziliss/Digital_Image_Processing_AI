@@ -6,7 +6,6 @@ The purpose of this repository is to create an application that takes the numeri
 
 - Windows 10
 - PyCharm
-- Elgato Game Capture HD60 (https://www.amazon.com/Elgato-Game-Capture-HD60-Playstation/dp/B00MIQ40JQ?th=1)
 
 #  3.Runtime Requirements
 
@@ -14,3 +13,4 @@ The purpose of this repository is to create an application that takes the numeri
 - PyCharm
 - Tesseract.exe (https://digi.bib.uni-mannheim.de/tesseract/)
 - MS SQL
+- Elgato Game Capture HD60 (https://www.amazon.com/Elgato-Game-Capture-HD60-Playstation/dp/B00MIQ40JQ?th=1)
