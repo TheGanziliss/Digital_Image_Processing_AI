@@ -22,5 +22,5 @@ The application processes the health data of the patients whose values are shown
 
 
 <p>
-    <img src="/Images/img1.jpg" width="40%" height="40%"> , <img src="/Images/img2.jpg" width="21%" height="20%">
+    <img src="/Images/img1.jpg" width="25%" height="25%"> , <img src="/Images/img2.jpg" width="25%" height="25%">
 </p>
